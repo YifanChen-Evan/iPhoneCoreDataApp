@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+<character>
+    <role>Center-Forward</role>
+        <person>
+           <name>Dwight Howard</name>
+           <from>SW ATLANTA CHRISTIAN ACADEMY (GA)/USA</from>
+           <position>Center-Forward</position>
+           <dateOfBirth>12/08/1985</dateOfBirth>
+           <number>39</number>
+           <image>Dwight Howard.png</image>
+           <height>2.08m</height>
+           <weight>265LBS</weight>
+           <intro>Dwight David Howard II (born December 8, 1985) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He is an NBA champion, eight-time All-Star, eight-time All-NBA Team honoree, five-time All-Defensive Team member, and three-time Defensive Player of the Year. Howard, who plays center, spent his high school career at Southwest Atlanta Christian Academy. He chose to forgo college, entered the 2004 NBA draft, and was selected first overall by the Orlando Magic. Howard set numerous franchise and league records with the Magic. He led the team to the 2009 NBA Finals. In 2012, after eight seasons with Orlando, Howard was traded to the Los Angeles Lakers. After a year with the Lakers, he played for the Houston Rockets, the Atlanta Hawks, the Charlotte Hornets, and the Washington Wizards. Howard returned to the Lakers in 2019 and won his first NBA championship in 2020.</intro>
+           <profileUrl>https://www.nba.com/player/2730/dwight-howard</profileUrl>
+           <socialUrl>https://www.instagram.com/dwighthoward/</socialUrl>
+        </person>
+</character>
+
+<character>
+    <role>Forward</role>
+        <person>
+           <name>Carmelo Anthony</name>
+           <from>SYRACUSE/USA</from>
+           <position>Forward</position>
+           <dateOfBirth>05/29/1984</dateOfBirth>
+           <number>7</number>
+           <image>Carmelo Anthony.png</image>
+           <height>2.01m</height>
+           <weight>238LBS</weight>
+           <intro>Carmelo Kyam Anthony (born May 29, 1984) is an American professional basketball player for the Los Angeles Lakers. He has been named an NBA All-Star ten times and an All-NBA Team member six times. He played college basketball for the Syracuse Orange, winning a national championship as a freshman in 2003 while being named the NCAA Tournament's Most Outstanding Player. During the NBA's 75th anniversary, he was named one of the 75 Greatest Players in NBA History. After one season at Syracuse, Anthony entered the 2003 NBA draft and was selected with the third overall pick by the Denver Nuggets. While playing for Denver, he led the Nuggets to the playoffs every year from 2004 to 2010; the team won two division titles in that span. In 2009, Anthony led the Nuggets to their first Conference Finals appearance since 1985. In 2011, he was traded from Denver to the New York Knicks days before the NBA trade deadline. In a January 24, 2014, game against the Charlotte Bobcats, Anthony scored a career-high 62 points, setting a Knicks' single-game scoring record and a Madison Square Garden single-game scoring record. Anthony was traded to the Oklahoma City Thunder, where he played one season before a short stint with the Houston Rockets. He spent two seasons with the Portland Trail Blazers prior to joining the Los Angeles Lakers. Anthony has played in the Olympics for the US national team a record four times, winning a bronze medal with the 2004 squad and gold medals on the 2008, 2012, and 2016 Olympic teams. As of April 2016, he was the US Olympic team's all-time leader in points, rebounds, and games played.</intro>
+           <profileUrl>https://www.nba.com/player/2546/carmelo-anthony</profileUrl>
+           <socialUrl>https://www.instagram.com/carmeloanthony/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Trevor Ariza</name>
+           <from>UCLA/USA</from>
+           <position>Forward</position>
+           <dateOfBirth>06/30/1985</dateOfBirth>
+           <number>1</number>
+           <image>Trevor Ariza.png</image>
+           <height>2.03m</height>
+           <weight>215LBS</weight>
+           <intro>Trevor Anthony Ariza (born June 30, 1985) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He won an NBA championship in his first stint with the Lakers in 2009. He played college basketball for one season with the UCLA Bruins before being selected as the 43rd pick of the 2004 NBA draft by the New York Knicks. He also previously played for the Orlando Magic, Houston Rockets, New Orleans Hornets, Washington Wizards, Phoenix Suns, Sacramento Kings, Portland Trail Blazers, and Miami Heat.</intro>
+           <profileUrl>https://www.nba.com/player/2772/trevor-ariza</profileUrl>
+           <socialUrl>https://www.facebook.com/profile.php?id=100050572355933</socialUrl>
+        </person>
+   
+       <person>
+          <name>LeBron James</name>
+          <from>ST. VINCENT-ST. MARY HS (OH)/USA</from>
+          <position>Forward</position>
+          <dateOfBirth>12/30/1984</dateOfBirth>
+          <number>6</number>
+          <image>LeBron James.png</image>
+          <height>2.06m</height>
+          <weight>250LBS</weight>
+          <intro>LeBron Raymone James Sr. (born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). Nicknamed "King James", he is widely considered one of the greatest players in NBA history and is often compared to Michael Jordan in debates over the greatest basketball player ever. James has won four NBA championships, four NBA MVP awards, four NBA Finals MVP awards, three All-Star MVP awards, and two Olympic gold medals. James has scored the most points in the playoffs, the third most career points, and has the seventh most career assists. He has been selected an NBA All-Star 18 times, to the All-NBA Team a record 17 times, and to the NBA All-Defensive First Team five times. He has competed in ten NBA Finals, the third most all time, including eight consecutively between 2011 and 2018.</intro>
+          <profileUrl>https://www.nba.com/player/2544/lebron-james</profileUrl>
+          <socialUrl>https://www.instagram.com/lebron/</socialUrl>
+       </person>
+       
+       <person>
+          <name>Wenyen Gabriel</name>
+          <from>KENTUCKY/SOUTH SUDAN</from>
+          <position>Forward</position>
+          <dateOfBirth>03/26/1997</dateOfBirth>
+          <number>35</number>
+          <image>Wenyen Gabriel.png</image>
+          <height>2.06m</height>
+          <weight>205LBS</weight>
+          <intro>Wenyen Gabriel (born March 26, 1997) is a South Sudanese-American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA), on a two-way contract with the South Bay Lakers of the NBA G League. He played college basketball for the Kentucky Wildcats, after being a 5-star prospect in 2016, ranked as high as #14 on ESPN's Top 100. Gabriel has also played in the NBA for the Sacramento Kings, Portland Trail Blazers, New Orleans Pelicans, Brooklyn Nets, and Los Angeles Clippers.</intro>
+          <profileUrl>https://www.nba.com/player/1629117/wenyen-gabriel</profileUrl>
+          <socialUrl>https://www.instagram.com/wenyengabriel/</socialUrl>
+       </person>
+</character>
+
+<character>
+    <role>Forward-Center</role>
+        <person>
+           <name>Anthony Davis</name>
+           <from>KENTUCKY/USA</from>
+           <position>Forward-Center</position>
+           <dateOfBirth>03/11/1993</dateOfBirth>
+           <number>3</number>
+           <image>Anthony Davis.png</image>
+           <height>2.08m</height>
+           <weight>253LBS</weight>
+           <intro>Anthony Marshon Davis Jr. (born March 11, 1993) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He plays the power forward and center positions. Davis is an eight-time NBA All-Star and has been named to four All-NBA First Teams and four NBA All-Defensive Teams. In his first season with the Lakers, he won an NBA championship in 2020. In 2021, he was named to the NBA 75th Anniversary Team. Davis played one season of college basketball for the University of Kentucky, when he was first team All-American and the Consensus National Player of the Year. He also won the USBWA National Freshman of the Year, NABC Defensive Player of the Year and the Pete Newell Big Man Award. Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the NCAA tournament. Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Pelicans, known then as the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics. After his rookie season, he was named to the NBA All-Rookie First Team. The next season, he became an All-Star for the first time and led the NBA in blocked shots per game. He has since become the youngest player to score at least 59 points in an NBA game. In 2017, he was named the recipient of the NBA All-Star Game MVP Award after setting an All-Star Game scoring record of 52 points. Davis was traded to the Lakers in 2019. He has won gold medals with the United States national team on their 2012 Olympic team and 2014 World Cup team, making him the first player in basketball history to win an NCAA title, NBA title, Olympic Gold Medal, and FIBA World Cup.</intro>
+           <profileUrl>https://www.nba.com/player/203076/anthony-davis</profileUrl>
+           <socialUrl>https://www.facebook.com/anthonydavis23</socialUrl>
+        </person>
+</character>
+
+<character>
+    <role>Forward-Guard</role>
+        <person>
+           <name>Stanley Johnson</name>
+           <from>ARIZONA/USA</from>
+           <position>Forward-Guard</position>
+           <dateOfBirth>05/29/1996</dateOfBirth>
+           <number>14</number>
+           <image>Stanley Johnson.png</image>
+           <height>1.98m</height>
+           <weight>242LBS</weight>
+           <intro>Stanley Herbert Johnson Jr. (born May 29, 1996) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played one season of college basketball for the Arizona Wildcats before being selected eighth overall by the Detroit Pistons in the 2015 NBA draft.</intro>
+           <profileUrl>https://www.nba.com/player/1626169/stanley-johnson</profileUrl>
+           <socialUrl>https://www.instagram.com/stanleyjohnson/</socialUrl>
+        </person>
+</character>
+
+<character>
+    <role>Guard</role>
+        <person>
+           <name>D.J. Augustin</name>
+           <from>TEXAS-AUSTIN/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>11/10/1987</dateOfBirth>
+           <number>4</number>
+           <image>D.J. Augustin.png</image>
+           <height>1.80m</height>
+           <weight>183LBS</weight>
+           <intro>Darryl Gerard "D. J." Augustin Jr. (born November 10, 1987) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Texas Longhorns from 2006 to 2008. He was drafted ninth overall by the Charlotte Bobcats in the 2008 NBA draft.The Lakers signed guard D.J. Augustin. Augustin appeared in 34 games (two starts) for Houston this season, averaging 5.4 points, 1.2 rebounds and 2.2 assists in 15.0 minutes per game.</intro>
+           <profileUrl>https://www.nba.com/player/201571/dj-augustin</profileUrl>
+           <socialUrl>https://www.instagram.com/djaugustin/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Avery Bradley</name>
+           <from>TEXAS-AUSTIN/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>11/26/1990</dateOfBirth>
+           <number>20</number>
+           <image>Avery Bradley.png</image>
+           <height>1.91m</height>
+           <weight>180LBS</weight>
+           <intro>Avery Antonio Bradley Jr. (born November 26, 1990) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Texas Longhorns before being drafted 19th overall by the Boston Celtics in the 2010 NBA draft. With the Celtics, he was twice recognized as an NBA All-Defensive Team member. Bradley has also played for the Detroit Pistons, Los Angeles Clippers, Memphis Grizzlies, Miami Heat, and Houston Rockets.Avery Bradley returns for a second stint with the Lakers after spending last season in Miami and Houston. He has been a perennial force on defense and helped the Lakers earn the 3rd best defensive rating in the league during the 2019-20 season.</intro>
+           <profileUrl>https://www.nba.com/player/202340/avery-bradley</profileUrl>
+           <socialUrl>https://www.facebook.com/AveryBradleyNBA</socialUrl>
+        </person>
+    
+        <person>
+           <name>Wayne Ellington</name>
+           <from>NORTH CAROLINA/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>11/29/1987</dateOfBirth>
+           <number>2</number>
+           <image>Wayne Ellington.png</image>
+           <height>1.93m</height>
+           <weight>207LBS</weight>
+           <intro>Wayne Robert Ellington Jr. (born November 29, 1987) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played for the University of North Carolina from 2006 to 2009. He chose to forgo his final season of college eligibility to declare for the 2009 NBA draft, and was drafted 28th overall by the Minnesota Timberwolves.The Lakers welcome back Wayne Ellington. The elite shooter brings with him 12 years of NBA experience. Ellington is a forward thinker on offense and his perimeter shooting is proficient, hitting 42% from the arc last year and 37% over his past 9 seasons.</intro>
+           <profileUrl>https://www.nba.com/player/201961/wayne-ellington</profileUrl>
+           <socialUrl>https://www.instagram.com/wayneellington/</socialUrl>
+        </person>
+       
+        <person>
+           <name>Talen Horton-Tucker</name>
+           <from>IOWA STATE/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>11/25/2000</dateOfBirth>
+           <number>5</number>
+           <image>Talen Horton-Tucker.png</image>
+           <height>1.93m</height>
+           <weight>234LBS</weight>
+           <intro>Talen Jalee Horton-Tucker (born November 25, 2000) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). Horton-Tucker played college basketball for the Iowa State Cyclones.</intro>
+           <profileUrl>https://www.nba.com/player/1629659/talen-horton-tucker</profileUrl>
+           <socialUrl>https://www.instagram.com/5talen/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Malik Monk</name>
+           <from>KENTUCKY/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>02/04/1998</dateOfBirth>
+           <number>11</number>
+           <image>Malik Monk.png</image>
+           <height>1.91m</height>
+           <weight>200LBS</weight>
+           <intro>Malik Ahmad Monk (born February 4, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats. Monk was selected 11th overall in the 2017 NBA draft by the Charlotte Hornets. He spent four seasons with the franchise before joining the Lakers as a free agent in August 2021.The 23-year-old joins the team armed and ready to get shots off from three. Hailing from the University of Kentucky, Monk ranked in the 90th percentile for catch-and-shoot jumpers. He will shoot, has a quick release, and precision off the dribble.</intro>
+           <profileUrl>https://www.nba.com/player/1628370/malik-monk</profileUrl>
+           <socialUrl>https://www.instagram.com/ahmad_monk/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Kendrick Nunn</name>
+           <from>OAKLAND/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>08/03/1995</dateOfBirth>
+           <number>12</number>
+           <image>Kendrick Nunn.png</image>
+           <height>1.88m</height>
+           <weight>190LBS</weight>
+           <intro>Kendrick Melvin Nunn (born August 3, 1995) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Illinois Fighting Illini and the Oakland Golden Grizzlies.</intro>
+           <profileUrl>https://www.nba.com/player/1629134/kendrick-nunn</profileUrl>
+           <socialUrl>https://www.instagram.com/nunnbetter_/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Austin Reaves</name>
+           <from>OKLAHOMA/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>05/29/1998</dateOfBirth>
+           <number>15</number>
+           <image>Austin Reaves.png</image>
+           <height>1.96m</height>
+           <weight>197LBS</weight>
+           <intro>Austin Tyler Reaves (born May 29, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Wichita State Shockers and the Oklahoma Sooners.</intro>
+           <profileUrl>https://www.nba.com/player/1630559/austin-reaves</profileUrl>
+           <socialUrl>https://www.instagram.com/austinreaves12/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Russell Westbrook</name>
+           <from>UCLA/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>11/12/1988</dateOfBirth>
+           <number>0</number>
+           <image>Russell Westbrook.png</image>
+           <height>1.91m</height>
+           <weight>200LBS</weight>
+           <intro>Russell Westbrook returns to his home city of Los Angeles as a Laker. The competitor is coming in to lead the charge at point guard. Brodie averaged more than 11 assists and rebounds per game last season and is the NBA all-time leader in triple-doubles.</intro>
+           <profileUrl>https://www.nba.com/player/201566/russell-westbrook</profileUrl>
+           <socialUrl>https://www.instagram.com/russwest44/</socialUrl>
+        </person>
+        
+        <person>
+           <name>Mason Jones</name>
+           <from>ARKANSAS/USA</from>
+           <position>Guard</position>
+           <dateOfBirth>07/21/1998</dateOfBirth>
+           <number>40</number>
+           <image>Mason Jones.png</image>
+           <height>1.93m</height>
+           <weight>200LBS</weight>
+           <intro>Mason Christopher Jones (born July 21, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA), on a two-way contract with the South Bay Lakers of the NBA G League. He played college basketball for the Connors State Cowboys and the Arkansas Razorbacks.</intro>
+           <profileUrl>https://www.nba.com/player/1630222/mason-jones</profileUrl>
+           <socialUrl>https://www.instagram.com/_masonjones15/</socialUrl>
+        </person>
+</character>
+
+<character>
+    <role>Guard-Forward</role>
+        <person>
+           <name>Kent Bazemore</name>
+           <from>OLD DOMINION/USA</from>
+           <position>Guard-Forward</position>
+           <dateOfBirth>07/01/1989</dateOfBirth>
+           <number>9</number>
+           <image>Kent Bazemore.png</image>
+           <height>1.93m</height>
+           <weight>195LBS</weight>
+           <intro>Kenneth Lamont Kent Bazemore Jr. (born July 1, 1989) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association. A former member of the Lakers, Bazemore is back. The nine-year NBA vet returns to the floor equipped with tenacious defense and prowess from three. Kent went 75-for-184 from beyond the arc last season and made his presence known as a perimeter defender.</intro>
+           <profileUrl>https://www.nba.com/player/203145/kent-bazemore</profileUrl>
+           <socialUrl>https://www.instagram.com/kennybaze/</socialUrl>
+        </person>
+</character>
+
+</people>
+    
